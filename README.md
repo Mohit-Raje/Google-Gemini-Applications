@@ -4,3 +4,4 @@
 
 Image to text Translator : https://geminivisionapplication.streamlit.app/  <br>
 Polaris AI - Chatbot : https://polarisai-chatbot.streamlit.app/
+MultiLang Invoice Wizard : https://multilanginvoicewizard.streamlit.app/
