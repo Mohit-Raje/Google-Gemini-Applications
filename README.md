@@ -2,5 +2,5 @@
 
 **Do Check out the live application on :**
 
-Image to text Translator : https://geminivisionapplication.streamlit.app/
+Image to text Translator : https://geminivisionapplication.streamlit.app/  <br>
 Polaris AI - Chatbot : https://polarisai-chatbot.streamlit.app/
