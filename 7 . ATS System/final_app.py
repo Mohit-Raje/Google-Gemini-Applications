@@ -7,6 +7,7 @@ import io
 import base64
 import PyPDF2  as pdf
 
+## Setup streamlit page
 st.set_page_config(page_title="AI Resume Match Assistant" , page_icon="🔍")
 st.header("AI Resume Match Assistant - A ATS System")
 
