@@ -28,7 +28,7 @@
   </li>
    <li>
     <strong>PathoPro — Your AI-Powered Medical Report Analyzer</strong>: 
-    <a href="https://pathopro-aibasedsolutionforunderstandingbloodreport.streamlit.app/">[https://airesumematchassistantaatssystem.streamlit.app](https://pathopro-aibasedsolutionforunderstandingbloodreport.streamlit.app/)/</a>
+    <a href="https://pathopro-aibasedsolutionforunderstandingbloodreport.streamlit.app/">https://pathopro-aibasedsolutionforunderstandingbloodreport.streamlit.app/</a>
   </li>
 </ul>
 
